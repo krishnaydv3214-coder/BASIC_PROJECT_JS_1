@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHANGE WORLD WITH COLORS</title>
+    <style>
+        body {
+
+            background-color: #16213E;
+
+            color: white;
+
+            font-family: Arial, sans-serif;
+
+            text-align: center;
+
+            min-height: 100vh;
+
+            display: flex;
+
+            flex-direction: column;
+
+            justify-content: center;
+
+            align-items: center;
+
+            transition: background-color 0.5s ease;
+
+        }
+
+        h1 {
+            margin-bottom: 15px;
+        }
+
+        h2 {
+            margin-bottom: 40px;
+            color: #dbeafe;
+        }
+
+        button {
+            padding: 12px 25px;
+            font-size: 18px;
+            font-weight: bold;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            margin: 10px;
+        }
+
+        #start {
+            background-color: #22c55e;
+            color: white;
+        }
+
+        #start:hover {
+            background-color: #16a34a;
+        }
+
+        #stop {
+            background-color: #ef4444;
+            color: white;
+        }
+
+        #stop:hover {
+            background-color: #dc2626;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>start should change the background color every second</h1>
+    <h2>stop should stop at that moment</h2>
+    <button id="start">START</button>
+    <button id="stop">STOP</button>
+    <script src="index.js"></script>
+</body>
+
+</html>
