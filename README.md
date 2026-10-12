@@ -23,7 +23,7 @@ https://krishnaydv3214-coder.github.io/BASIC_PROJECT_JS_1/
 
 
 ## 📂 Project Structure
-BASIC_PROJECT_JS_1
+BASIC_PROJECT_JS_1<br>
  index.html<br>
  index.js<br>
  README.md
