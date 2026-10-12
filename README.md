@@ -1,4 +1,4 @@
-# BASIC_PROJECT_JS_1
+# DOM_PROJECT_JS_1
 
 
 # 🎨 Unlimited Colors Project
