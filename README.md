@@ -24,9 +24,9 @@ https://krishnaydv3214-coder.github.io/BASIC_PROJECT_JS_1/
 
 ## 📂 Project Structure
 BASIC_PROJECT_JS_1
-├── index.html
-├── index.js
-└── README.md
+ index.html
+ index.js
+ README.md
 
 ## 🎯 Learning Concepts
 - DOM Manipulation
