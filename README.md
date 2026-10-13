@@ -35,7 +35,7 @@ A dynamic background color generator that continuously changes the webpage's bac
 
 **📁 Source Code:** [`Unlimited_Colors/`](./Unlimited_Colors/)
 
-**🚀 Live Demo:** [[View Unlimited Colors](https://krishnaydv3214-coder.github.io/BASIC_PROJECT_JS_1/)](https://krishnaydv3214-coder.github.io/DOM_PROJECT_JS_1/Dark_mode_toggle_js_dom/)
+**[🚀 View Live Project](https://krishnaydv3214-coder.github.io/DOM_PROJECT_JS_1/Unlimited_Colors/)**
 
 ---
 
@@ -62,7 +62,7 @@ A simple interactive webpage theme switcher that toggles the document body betwe
 
 **📁 Source Code:**[ [`Dark_mode_toggle_js_dom/`](./Dark_mode_toggle_js_dom/)](https://krishnaydv3214-coder.github.io/DOM_PROJECT_JS_1/Dark_mode_toggle_js_dom/)
 
-**🚀 Live Demo:** Coming soon
+**[🚀 View Live Project](https://krishnaydv3214-coder.github.io/DOM_PROJECT_JS_1/Dark_mode_toggle_js_dom/)**
 
 ---
 
@@ -99,7 +99,7 @@ An interactive list management application that allows users to add, edit, and r
 
 **📁 Source Code:** [`Dynamic_list_creator_js_dom/`](./Dynamic_list_creator_js_dom/)
 
-**🚀 Live Demo:**[ Coming soon](https://krishnaydv3214-coder.github.io/DOM_PROJECT_JS_1/Dynamic_list_creator_js_dom/)
+**[🚀 View Live Project](https://krishnaydv3214-coder.github.io/DOM_PROJECT_JS_1/Dynamic_list_creator_js_dom/)**
 
 ---
 
