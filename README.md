@@ -149,7 +149,7 @@ A color palette generator that creates five random colors at a time. Users can c
 | ------------------ | ------------------------------------------------------ |
 | HTML5              | Structuring webpage content                            |
 | CSS3               | Styling and visual presentation                        |
-| Vanilla JavaScript | Application logic and interactivity                    |
+| JavaScript         | Application logic and interactivity                    |
 | DOM API            | Selecting, creating, modifying, and removing elements  |
 | Git & GitHub       | Version control and source code hosting                |
 | GitHub Pages       | Hosting live project demonstrations                    |
