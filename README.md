@@ -102,6 +102,46 @@ An interactive list management application that allows users to add, edit, and r
 **[🚀 View Live Project](https://krishnaydv3214-coder.github.io/DOM_PROJECT_JS_1/Dynamic_list_creator_js_dom/)**
 
 ---
+### 🎨 4. Color Palette Generator
+
+A color palette generator that creates five random colors at a time. Users can choose between HEX and RGB color formats and filter generated colors by light or dark tones.
+
+**✨ Features**
+
+- 🎲 Generates a palette containing five random colors.
+- 🔢 Displays colors in either HEX or RGB format.
+- 🌈 Supports All Colors, Light, and Dark tone options.
+- 🖌️ Applies each generated color as the background of its palette card.
+- 🔄 Generates a new palette when the Generate button is clicked.
+- ⚡ Creates color cards dynamically using JavaScript.
+- 🚀 Generates an initial palette automatically when the page loads.
+
+**🧠 Concepts Practiced**
+
+- DOM selection using `document.getElementById()`.
+- Event handling with `addEventListener()`.
+- Random number generation using `Math.random()` and `Math.floor()`.
+- Generating random RGB channel values.
+- Converting RGB values to HEX using `toString(16)`, `padStart()`, and `join()`.
+- Using arrays and `map()` to convert RGB channels into hexadecimal values.
+- Returning objects from functions and using destructuring assignment: `{ r, g, b }`.
+- Conditional logic to generate light, dark, or unrestricted RGB values.
+- Conditional selection between HEX and RGB formats.
+- Dynamic DOM creation using `document.createElement()`.
+- Updating the DOM using `innerHTML`, `textContent`, and `appendChild()`.
+- Dynamically applying CSS styles using the `style` property.
+- Reading user selections from `<select>` elements using their `value` properties.
+- Using template literals to construct RGB color strings.
+- Reusing functions to separate random color generation, color conversion, and palette rendering.
+
+**🛠️ Tech Stack:** HTML5 · CSS3 · JavaScript
+
+**📁 Source Code:** [`Color_Palette_Generator_js_dom/`](./Color_Palette_Generator_js_dom/)
+
+[**🚀 View Live Project**](https://krishnaydv3214-coder.github.io/DOM_PROJECT_JS_1/Color_Palette_Generator_js_dom/)
+
+---
+
 
 ## 🛠️ Technologies Used
 
@@ -113,7 +153,6 @@ An interactive list management application that allows users to add, edit, and r
 | DOM API            | Selecting, creating, modifying, and removing elements  |
 | Git & GitHub       | Version control and source code hosting                |
 | GitHub Pages       | Hosting live project demonstrations                    |
-
 ---
 
 ## 📚 Key Learning Outcomes
@@ -128,6 +167,9 @@ Through these projects, I am developing practical skills in:
 - Timers and interval control in JavaScript.
 - Updating UI elements based on application state.
 - Writing modular, understandable JavaScript logic.
+- Generating and converting color representations between RGB and HEX.
+- Using conditional logic to filter generated values by tone.
+- Reading user choices from form controls and updating the UI accordingly.
 
 ---
 
@@ -141,8 +183,12 @@ DOM_PROJECT_JS_1/
 │   └── index.js
 ├── Dark_mode_toggle_js_dom/
 │   └── ...
-└── Dynamic_list_creator_js_dom/
-    └── ...
+├── Dynamic_list_creator_js_dom/
+│   └── ...
+└── Color_Palette_Generator_js_dom/
+    ├── index.html
+    ├── main.js
+    └── style.css
 ```
 
 *Each project is maintained in its own directory and may contain additional CSS, JavaScript, or asset files.*
@@ -167,4 +213,7 @@ GitHub: [@krishnaydv3214-coder](https://github.com/krishnaydv3214-coder)
 ---
 
 ⭐ If you find these projects useful, consider starring the repository!
+
+
+
 
