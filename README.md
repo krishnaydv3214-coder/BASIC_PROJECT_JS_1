@@ -60,7 +60,7 @@ A simple interactive webpage theme switcher that toggles the document body betwe
 
 **🛠️ Tech Stack:** HTML5 · CSS3 · JavaScript
 
-**📁 Source Code:**[ [`Dark_mode_toggle_js_dom/`](./Dark_mode_toggle_js_dom/)](https://krishnaydv3214-coder.github.io/DOM_PROJECT_JS_1/Dark_mode_toggle_js_dom/)
+**📁 Source Code:**[ [`Dark_mode_toggle_js_dom/`](./Dark_mode_toggle_js_dom/)]
 
 **[🚀 View Live Project](https://krishnaydv3214-coder.github.io/DOM_PROJECT_JS_1/Dark_mode_toggle_js_dom/)**
 
